@@ -8,7 +8,7 @@ html{
 }
 
 .img-fondo{
-background-image: url(/IMG/tienda.jpg);
+background-image: url(./IMG/tienda.jpg);
 }
 img{
     width: 100%;
